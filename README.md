@@ -1,1 +1,2 @@
-"# campo_minado_reactnative" 
+Campo Minado (Mines) em React-Native.
+Finalizado
